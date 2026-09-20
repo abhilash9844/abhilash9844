@@ -102,18 +102,12 @@ print(me)
 
 ## `$ git log --analytics`
 
-<!-- ── TROPHIES ───────────────────────────────────────────── -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhilash9844&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
-
-</div>
-
 <!-- ── STATS + LANGUAGES ──────────────────────────────────── -->
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abhilash9844&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f0c040&icon_color=f0c040&text_color=c9d1d9&ring_color=f0c040&cache_seconds=1800" alt="GitHub Stats"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash9844&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=f0c040&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages"/>
+<img height="170em" src="https://github-stats.vercel.app/api?username=abhilash9844&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f0c040&icon_color=f0c040&text_color=c9d1d9" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash9844&layout=donut&langs_count=6&hide_border=true&bg_color=0d1117&title_color=f0c040&text_color=c9d1d9" alt="Top Languages"/>
 
 </div>
 
@@ -124,10 +118,22 @@ print(me)
 
 </div>
 
-<!-- ── ACTIVITY GRAPH ─────────────────────────────────────── -->
+<!-- ── SUMMARY CARDS ──────────────────────────────────────── -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhilash9844&bg_color=0d1117&color=f0c040&line=f0c040&point=ff6b35&area=true&area_color=f0c04020&hide_border=true&custom_title=Contribution%20Activity&radius=6" alt="Activity Graph" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhilash9844&theme=github_dark" width="95%" alt="Profile Summary"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhilash9844&theme=github_dark" height="160em" alt="Repos per Language"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhilash9844&theme=github_dark" height="160em" alt="Most Commit Language"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhilash9844&theme=github_dark" height="160em" alt="Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhilash9844&theme=github_dark&utcOffset=5.5" height="160em" alt="Productive Time (IST)"/>
 
 </div>
 
