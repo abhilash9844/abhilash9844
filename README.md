@@ -105,30 +105,29 @@ print(me)
 <!-- ── TROPHIES ───────────────────────────────────────────── -->
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abhilash9844&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/abhilash9844)
+<img src="https://github-profile-trophy.vercel.app/?username=abhilash9844&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
 
 </div>
 
 <!-- ── STATS + LANGUAGES ──────────────────────────────────── -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhilash9844&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f0c040&icon_color=f0c040&text_color=c9d1d9&ring_color=f0c040"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash9844&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=f0c040&text_color=c9d1d9"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abhilash9844&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f0c040&icon_color=f0c040&text_color=c9d1d9&ring_color=f0c040&cache_seconds=1800" alt="GitHub Stats"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash9844&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=f0c040&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages"/>
 
 </div>
 
 <!-- ── STREAK ────────────────────────────────────────────── -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhilash9844&theme=dark&hide_border=true&background=0D1117&stroke=f0c040&ring=f0c040&fire=ff6b35&currStreakLabel=f0c040&sideLabels=f0c040&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/abhilash9844)
+<img src="https://streak-stats.demolab.com?user=abhilash9844&theme=dark&hide_border=true&background=0D1117&stroke=f0c040&ring=f0c040&fire=ff6b35&currStreakLabel=f0c040&sideLabels=f0c040&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
 </div>
 
 <!-- ── ACTIVITY GRAPH ─────────────────────────────────────── -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhilash9844&bg_color=0d1117&color=f0c040&line=f0c040&point=ff6b35&area=true&area_color=f0c04020&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/abhilash9844)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhilash9844&bg_color=0d1117&color=f0c040&line=f0c040&point=ff6b35&area=true&area_color=f0c04020&hide_border=true&custom_title=Contribution%20Activity&radius=6" alt="Activity Graph" width="95%"/>
 
 </div>
 
@@ -136,9 +135,9 @@ print(me)
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/abhilash9844/abhilash9844/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhilash9844/abhilash9844/output/github-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/abhilash9844/abhilash9844/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/abhilash9844/abhilash9844/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhilash9844/abhilash9844/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/abhilash9844/abhilash9844/output/github-snake-dark.svg" width="95%"/>
 </picture>
 
 </div>
