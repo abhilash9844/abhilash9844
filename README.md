@@ -107,7 +107,7 @@ print(me)
 
 <img height="170em" src="https://github-stats.vercel.app/api?username=abhilash9844&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f0c040&icon_color=f0c040&text_color=c9d1d9" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash9844&layout=donut&langs_count=6&hide_border=true&bg_color=0d1117&title_color=f0c040&text_color=c9d1d9" alt="Top Languages"/>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhilash9844&theme=github_dark" alt="Top Languages"/>
 
 </div>
 
